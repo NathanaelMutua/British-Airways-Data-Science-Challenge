@@ -1,4 +1,5 @@
-![british-airways-01-logo-png-transparent](https://github.com/user-attachments/assets/994c9467-4e1f-4478-8c5c-a94602cef7d8)
+
+![british-airways-logo-png-transparent](https://github.com/user-attachments/assets/0ea5a4aa-1417-4249-be1d-3a347d68233d)
 
 # **British Airways Data Science Internship**
 
