@@ -1,4 +1,6 @@
-# **British Airways Data Science Challenge**
+![british-airways-01-logo-png-transparent](https://github.com/user-attachments/assets/994c9467-4e1f-4478-8c5c-a94602cef7d8)
+
+# **British Airways Data Science Internship**
 
 ## **Description**
 My solutions for the Forage program: are web scraping, data cleaning, analysis, and visualization to extract business insights. 
