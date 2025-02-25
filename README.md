@@ -1,5 +1,5 @@
 
-![british-airways-logo-png-transparent](https://github.com/user-attachments/assets/0ea5a4aa-1417-4249-be1d-3a347d68233d)
+![british-airways horizontal-blue-fill](https://github.com/user-attachments/assets/f41a94bf-9017-4aba-a580-18cb42e61537)
 
 # **British Airways Data Science Internship**
 
